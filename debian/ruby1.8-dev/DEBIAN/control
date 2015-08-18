@@ -1,0 +1,18 @@
+Package: ruby1.8-dev
+Source: ruby1.8
+Version: 1.8~sid
+Architecture: amd64
+Maintainer: akira yamada <akira@debian.org>
+Installed-Size: 25
+Depends: ruby
+Provides: ruby1.8
+Section: ruby
+Priority: optional
+Description: Header files for compiling extension modules for the Ruby 1.8
+ Ruby is the interpreted scripting language for quick and easy
+ object-oriented programming.  It has many features to process text
+ files and to do system management tasks (as in perl).  It is simple,
+ straight-forward, and extensible.
+ .
+ This package contains the header files and the mkmf library, necessary
+ to make extension library for Ruby 1.8.

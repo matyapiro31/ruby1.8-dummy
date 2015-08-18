@@ -1,0 +1,4 @@
+ruby1.8 (1.8~precise) precise; urgency=low
+  * This is trasitional dummy package.
+
+ -- akira yamada <akira@debian.org> Tue, 08 Jan 2013 22:40:12 +0100
