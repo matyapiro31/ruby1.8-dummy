@@ -7,7 +7,7 @@ Standards-Version: 3.9.1
 
 Package: ruby1.8-dev
 Architecture: any
-Depends: ruby
+Depends: 
 Section: ruby
 Provides: ruby1.8
 Description: Header files for compiling extension modules for the Ruby 1.8
